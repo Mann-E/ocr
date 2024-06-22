@@ -19,5 +19,7 @@ The initial goal of this project is for Persian speakers, but even at this step,
 ## Sponsors
 
 <p align="center">
-    <img src="iranserver-logo-background.png" />
+    <a href="https://iranserver.com">
+        <img src="iranserver-logo-background.png"/>
+    </a>
 </p>
