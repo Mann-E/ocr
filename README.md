@@ -13,4 +13,6 @@ The initial goal of this project is for Persian speakers, but even at this step,
 
 ## News 
 
+- 20 June 2024: The project dataset was created. 
+
 ## Sponsors
