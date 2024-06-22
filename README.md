@@ -14,5 +14,6 @@ The initial goal of this project is for Persian speakers, but even at this step,
 ## News 
 
 - 20 June 2024: The project dataset was created. 
+- 22 June 2024: [Old repository](https://github.com/prp-e/persian_ocr_project) archived and everything moved here.
 
 ## Sponsors
